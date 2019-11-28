@@ -1,3 +1,5 @@
+///<reference path='pessoa.ts'/>
+
 namespace hospital{
     export abstract class Funcionario{
         private _codFuncionario:number;

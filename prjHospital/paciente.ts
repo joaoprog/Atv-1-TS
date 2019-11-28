@@ -1,3 +1,5 @@
+///<reference path='pessoa.ts'/>
+
 namespace hospital{
     export abstract class Paciente{
         private _codPaciente:number;
